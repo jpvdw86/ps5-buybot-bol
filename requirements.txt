@@ -1,0 +1,5 @@
+selenium
+requests
+pyobjc
+AppKit
+playsound
